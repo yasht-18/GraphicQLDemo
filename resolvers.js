@@ -5,8 +5,8 @@ const Query = {
    students:() => db.students.list(), 
    colleges:()=>db.colleges.list(), 
    company:()=> db.companies.list(),
-	companyWithID:()
-	 hero(episode: $episode) {
+	//companyWithID:()
+	 
  
 }
 module.exports = {Query}
