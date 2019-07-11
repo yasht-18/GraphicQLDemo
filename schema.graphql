@@ -3,7 +3,8 @@ type Query  {
    abc: String,
    students:[Student],
    colleges:[Colleges],
-   company:[Company]
+   company:[Company],
+   findCompanyByID(id: ID!): Company   
 }
 
 type Student {

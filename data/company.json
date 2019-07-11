@@ -1,14 +1,29 @@
 [
   {
-    "id": "com-420",
+    "id": 1,
     "name": "QKR",
     "location": "Pune",
     "rating": 5
   },
   {
-    "id": "com-696",
+    "id": 2,
     "name": "DCD",
     "location": "Dubai",
+    "rating": 4.5
+  },{
+    "id": 3,
+    "name": "MB",
+    "location": "Mumbai",
+    "rating": 4.5
+  },{
+    "id": 4,
+    "name": "DD",
+    "location": "Dadar",
+    "rating": 4.5
+  },{
+    "id": 5,
+    "name": "AT",
+    "location": "JVHKDJ",
     "rating": 4.5
   }
 ]
