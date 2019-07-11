@@ -11,6 +11,15 @@ const Query = {
       //return db.companies.list();
       let obj = db.companies.list().find(obj => obj.id == args.id);
       return obj;
+  } , 
+  findStudentByID: function (parent, args, context, info) { 
+     let obj = db.students.list().find(obj => obj.id==(args.id)); 
+      // for(var i=0;i<db.students.list().length;i++){
+      //    if(db.students.list().id == args.id){
+      //       return db.students[i];
+      //    }
+      // }
+     return obj; 
   }
 
  
