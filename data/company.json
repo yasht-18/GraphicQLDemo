@@ -1,0 +1,14 @@
+[
+  {
+    "id": "com-420",
+    "name": "QKR",
+    "location": "Pune",
+    "rating": 5
+  },
+  {
+    "id": "com-696",
+    "name": "DCD",
+    "location": "Dubai",
+    "rating": 4.5
+  }
+]
